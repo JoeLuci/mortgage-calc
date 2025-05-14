@@ -185,10 +185,6 @@ jQuery(document).ready(function($){
                     cutout: 85
                 }
             });
-            
-            $('html, body').animate({
-                scrollTop: $("#rs_sec").offset().top - 180
-            }, 1000);
         }
     }
 
